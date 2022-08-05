@@ -1,6 +1,6 @@
+<img src="assets/readme_cover.gif" alt="Hi there I'm Tiago. I'm a software developer">
+
 ### Hi there 👋
-
-
 
 ### Languages and Tools 🛠 
 
