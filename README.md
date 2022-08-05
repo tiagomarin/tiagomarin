@@ -37,7 +37,9 @@
   </div>
 <br>
 <h3> Github :mag_right:</h3>
-![My github stats](https://github-readme-stats.vercel.app/api?username=Tiago-Lelinski-Marin&show_icons=true&theme=nord)
+<br>
+<img src="https://github-readme-stats.vercel.app/api?username=Tiago-Lelinski-Marin&show_icons=true&theme=nord">
+
 
 <br>
 <h3>Contact Me :left_speech_bubble:
