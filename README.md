@@ -43,7 +43,7 @@
 <br>
 <h3> Github :mag_right:</h3>
 <br>
-<img src="https://github-readme-stats.vercel.app/api?username=Tiago-Lelinski-Marin&show_icons=true&theme=nord">
+<img src="https://github-readme-stats.vercel.app/api?username=tiagomarin&show_icons=true&theme=nord">
 
 
 <br>
