@@ -7,7 +7,7 @@
   <summary>more about my journey </summary>
   <br>
   <p> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  At the end of my first month, in only 4 days I created a landing page with JavaScript, CSS, and HTML that fulfilled the design guidelines across many devices, and I’m very proud of it. <a href="https://tiago-lelinski-marin.github.io/Eagle-English/">(here is the link to it)</a> <br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  At the end of my first month, in only 4 days I created a landing page with JavaScript, CSS, and HTML that fulfilled the design guidelines across many devices, and I’m very proud of it. <a href="https://tiagomarin.github.io/Eagle-English/">(here is the link to it)</a> <br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   Before that, I was working as a Coordinator of English teachers, which gave me experience with training and leading. I've always liked technology, and at some point I realized how fast people that work with tech develop themselves. That's when I decided I'd jump in this path. <br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   I’m really looking forward to working with a strong tech team because I want to be involved with people who have a growth mindset like me. I am quite driven, and my long-term goal is to work as a lead developer in a large, multinational company and potentially serve as a CTO. As for today, I am looking for an opportunity to shine as an immediate contributor to a full-stack development team.
   </p>
