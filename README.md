@@ -51,7 +51,7 @@
 <br>
 <br>
 
-<a href="https://www.linkedin.com/in/tiagomarin/"><img alt="LinkedIn profile" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> &nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/tiago-lelinski-marin/"><img alt="LinkedIn profile" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> &nbsp;&nbsp;
 
 <a href="https://medium.com/@tiago.lelinski"><img alt="Medium Profile" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"></a>&nbsp;&nbsp;
 
