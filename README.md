@@ -1,7 +1,7 @@
 <img src="assets/readme_cover.gif" alt="Hi there I'm Tiago. I'm a software developer">
 
-<h3> What am I doing now? :smiley:</h3>
-<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Currently, I am participating in an international remote full-stack development program that focuses on real-world projects and pair programming, that is called Microverse. In addition to learning how to program at a fast pace, I also have improved my communication and teamwork skills. I really enjoy working with different people from all around the world, I've already made some friends.</p>
+<h3> About me :smiley:</h3>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I'm a Javascript and Ruby On Rails full-stack developer. I have, completed an international remote full-stack development program that focuses on real-world projects and pair programming, that is called Microverse. It was a 8+ months in an amazing journey where I learned so many things and built some aplications from scratch that I would never imagine I would be able to do it. In addition to learning how to program at a fast pace, I also have improved my communication and teamwork skills. I really enjoyed working with different people from all around the world, I've already made some friends.</p>
 <br>
 <details>
   <summary>more about my journey </summary>
@@ -30,16 +30,24 @@
 <h3>Languages and Tools :gear: </h3>
 <br>
   <div>
-  <img alt="HTML Badge" src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"> &nbsp;&nbsp;<img alt="CSS Badge" src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"> &nbsp;&nbsp; <img alt="JavaScript Badge" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"> &nbsp;&nbsp;
+  <img alt="JavaScript Badge" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"> &nbsp;&nbsp;
+  <img alt="Ruby Badge" src="https://img.shields.io/badge/rails-%23CC0000.svg?style=for-the-badge&logo=ruby-on-rails&logoColor=white"> &nbsp;&nbsp;
+    <img alt="Ruby on Rails Badge" src="https://img.shields.io/badge/rails-%23CC0000.svg?style=for-the-badge&logo=ruby-on-rails&logoColor=white">&nbsp;&nbsp;
 </div>
 <div>
+  <img alt="HTML Badge" src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"> &nbsp;&nbsp;
+  <img alt="CSS Badge" src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"> &nbsp;&nbsp; 
+  <img alt="React Badge" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">&nbsp;&nbsp;
+  <img alt="React Native Badge" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">&nbsp;&nbsp;
   <img alt="SASS badge" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white"> &nbsp;&nbsp;
   <img alt="Bootstrap Badge" src="https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white"/> &nbsp;&nbsp;
-  <img alt="React Badge" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">&nbsp;&nbsp;
+  <img alt="Tailwing Badge" src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)"/>&nbsp;&nbsp;
+  
  </div>
  <div>
   <img alt="NodeJs Badge" src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/> &nbsp;&nbsp; <img alt="Git Badge" style="float: left; margin-right: 10px;"  src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"/> &nbsp;&nbsp; <img alt="Jest Badge" src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white">
-  </div>
+</div>
+
 <br>
 <h3> Github :mag_right:</h3>
 <br>
