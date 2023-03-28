@@ -31,21 +31,33 @@
 <br>
   <div>
   <img alt="JavaScript Badge" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"> &nbsp;&nbsp;
-  <img alt="Ruby Badge" src="https://img.shields.io/badge/rails-%23CC0000.svg?style=for-the-badge&logo=ruby-on-rails&logoColor=white"> &nbsp;&nbsp;
-    <img alt="Ruby on Rails Badge" src="https://img.shields.io/badge/rails-%23CC0000.svg?style=for-the-badge&logo=ruby-on-rails&logoColor=white">&nbsp;&nbsp;
+  <img alt="Ruby Badge" src="https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white)"> &nbsp;&nbsp;
+  <img alt="Ruby on Rails Badge" src="https://img.shields.io/badge/rails-%23CC0000.svg?style=for-the-badge&logo=ruby-on-rails&logoColor=white">&nbsp;&nbsp;
+  <img alt="React Badge" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">&nbsp;&nbsp;
+  <img alt="React Native Badge" src="https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">&nbsp;&nbsp;
 </div>
+
 <div>
   <img alt="HTML Badge" src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"> &nbsp;&nbsp;
   <img alt="CSS Badge" src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"> &nbsp;&nbsp; 
-  <img alt="React Badge" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">&nbsp;&nbsp;
-  <img alt="React Native Badge" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">&nbsp;&nbsp;
   <img alt="SASS badge" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white"> &nbsp;&nbsp;
   <img alt="Bootstrap Badge" src="https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white"/> &nbsp;&nbsp;
   <img alt="Tailwing Badge" src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)"/>&nbsp;&nbsp;
-  
  </div>
- <div>
-  <img alt="NodeJs Badge" src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/> &nbsp;&nbsp; <img alt="Git Badge" style="float: left; margin-right: 10px;"  src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"/> &nbsp;&nbsp; <img alt="Jest Badge" src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white">
+ 
+<div>
+  <img alt="NodeJs Badge" src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/> &nbsp;&nbsp;
+  <img alt="Git Badge" style="float: left; margin-right: 10px;"  src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"/> &nbsp;&nbsp;
+  <img alt="Jest Badge" src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white"/> &nbsp;&nbsp;
+   <img alt="PostgreSQL Badge" src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img alt="MongoDB Badge" src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img alt="Amazon DynamoDB Badge" src="https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white" />
+</div>
+
+<div>
+  <img alt="Git Badge" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
+  <img alt=" Badge" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
+  <img alt="Heroku Badge" src="https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white" />
 </div>
 
 <br>
