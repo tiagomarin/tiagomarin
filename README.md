@@ -7,11 +7,13 @@
   <summary>more about my journey </summary>
   <br>
   <p> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  At the end of my first month, in only 4 days I created a landing page with JavaScript, CSS, and HTML that fulfilled the design guidelines across many devices, and I’m very proud of it. <a href="https://tiagomarin.github.io/Eagle-English/">(here is the link to it)</a> <br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  At the end of my first month, in only 4 days I created a landing page with JavaScript, CSS, and HTML that fulfilled the design guidelines across many devices, and I’m very proud of it. <a href="https://tiagomarin.github.io/Eagle-English/">(here is the link to it)</a> <br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![looking-for-a-job-job](https://user-images.githubusercontent.com/99205303/228097621-b65e87e5-43ad-45e2-9cea-9766c4e68236.gif)
+
   Before that, I was working as a Coordinator of English teachers, which gave me experience with training and leading. I've always liked technology, and at some point I realized how fast people that work with tech develop themselves. That's when I decided I'd jump in this path. <br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   I’m really looking forward to working with a strong tech team because I want to be involved with people who have a growth mindset like me. I am quite driven, and my long-term goal is to work as a lead developer in a large, multinational company and potentially serve as a CTO. As for today, I am looking for an opportunity to shine as an immediate contributor to a full-stack development team.
   </p>
  </details>
+
 
 <details>
   <summary>Check out some interesting facts about me :bulb:</summary>
@@ -25,6 +27,10 @@
   - :couple: I'm happyly married, kids yet to come. <br>
 
 </details>
+
+<img alt="Looking for a Job Sticker" src="https://user-images.githubusercontent.com/99205303/228097653-8f1ffb8a-4043-4627-a79d-a7f7a9a46f69.gif" width="100" height="100" />
+
+<!-- ![looking-for-a-job-job](https://user-images.githubusercontent.com/99205303/228097653-8f1ffb8a-4043-4627-a79d-a7f7a9a46f69.gif) -->
 
 <br>
 <h3>Languages and Tools :gear: </h3>
