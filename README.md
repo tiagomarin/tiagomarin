@@ -30,7 +30,7 @@
 
 <img alt="Looking for a Job Sticker" src="https://user-images.githubusercontent.com/99205303/228097653-8f1ffb8a-4043-4627-a79d-a7f7a9a46f69.gif" width="100" height="100" />
 
-<!-- ![looking-for-a-job-job](https://user-images.githubusercontent.com/99205303/228097653-8f1ffb8a-4043-4627-a79d-a7f7a9a46f69.gif) -->
+<!-- <img alt="Looking for a Job Sticker" src="https://user-images.githubusercontent.com/99205303/228098040-8f3f5e74-04a3-4e71-99b1-4de516659a38.gif" width="200" /> -->
 
 <br>
 <h3>Languages and Tools :gear: </h3>
