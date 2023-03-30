@@ -1,7 +1,7 @@
 <img src="assets/readme_cover.gif" alt="Hi there I'm Tiago. I'm a software developer">
 
 <h3> About me :smiley:</h3>
-<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I'm a Javascript and Ruby On Rails full-stack developer. I have, completed an international remote full-stack development program that focuses on real-world projects and pair programming, that is called Microverse. It was a 8+ months in an amazing journey where I learned so many things and built some aplications from scratch that I would never imagine I would be able to do it. In addition to learning how to program at a fast pace, I also have improved my communication and teamwork skills. I really enjoyed working with different people from all around the world, I've already made some friends.</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I'm a Javascript and Ruby On Rails full-stack developer. I have completed an international remote full-stack development program that focuses on real-world projects and pair programming, that is called Microverse. It was 8+ months in an amazing journey where I learned so many things and built some applications from scratch that I would never imagine I would be able to do. In addition to learning how to program at a fast pace, I also have improved my communication and teamwork skills. I really enjoyed working with different people from all around the world, I've already made some friends.</p>
 <br>
 <details>
   <summary>more about my journey </summary>
@@ -24,7 +24,7 @@
   - :earth_americas: I have lived in 4 different countries. <br>
   - :guitar: I play the guitar. <br>
   - :recycle: I always try to reduce my environmental footprint. <br>
-  - :couple: I'm happyly married, kids yet to come. <br>
+  - :couple: I'm happily married, kids yet to come. <br>
 
 </details>
 
